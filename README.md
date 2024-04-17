@@ -1,6 +1,6 @@
 # Charity 
 
-Projet de dons alimentaires pour aider les plus démunis.
+Food donation project to help those in need.
 
 # Install
 
