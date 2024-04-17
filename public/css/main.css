@@ -1,0 +1,11 @@
+@import url('./styles/utils.css');
+@import url('./styles/variables.css');
+@import url('./styles/layout.css');
+@import url('./styles/reset.css');
+@import url('./styles/beneficiaries-form.css');
+
+
+
+html {
+	font-family: 'Quicksand', sans-serif;
+}

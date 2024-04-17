@@ -1,0 +1,13 @@
+{
+    "include": ["src"],
+    "exclude": ["dist", "node_modules"],
+    "extends": "@tsconfig/node18-strictest-esm/tsconfig.json",
+    "compilerOptions": {
+        "lib": ["dom"],
+        "outDir": "./dist",
+        "module": "es2022",
+        "allowSyntheticDefaultImports": true,
+        "esModuleInterop": true,
+        "importsNotUsedAsValues": "remove"
+    }
+}

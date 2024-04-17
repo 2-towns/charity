@@ -1,0 +1,14 @@
+.beneficiaries-form__intro {
+	margin-top: 2rem;
+	margin-bottom: 2rem;
+	padding: 0.6rem;
+}
+
+ .beneficiaries-form__table {
+	margin-top: 1rem;
+	margin-bottom: 2rem;
+	border: darkgray 2px solid;
+	border-radius: 10px;
+	border-collapse: separate;
+
+}

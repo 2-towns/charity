@@ -1,0 +1,174 @@
+[
+	{
+		"firstName": "Mustapha",
+		"lastName": "Rabhioui",
+		"email": "rabhiouim@yahoo.fr",
+		"type": "user",
+		"code": "cd9a15b8-b82e-4062-9333-fbdd144cc783"
+	},
+	{
+		"firstName": "Youssef",
+		"lastName": "Kamouch",
+		"email": "y.kamouch@gmail.com",
+		"type": "user",
+		"code": "a6098974-1fbf-44db-8d60-037c9eaf2d29",
+		"phone": "0752463198"
+	},
+	{
+		"firstName": "Admin",
+		"lastName": "Arnaud",
+		"email": "heros",
+		"code": "8323be2f3b4af9a49695965037a63335e5c5a4428203aef9cee76cde563361f0",
+		"type": "admin"
+	},
+	{
+		"firstName": "Fayssal ",
+		"lastName": "Touil",
+		"email": "touil.fayssal@hotmail.fr",
+		"type": "user",
+		"code": "67c44ed3-e4a6-4fc9-8965-1811fbd83d41",
+		"phone": "0753402433"
+	},
+	{
+		"firstName": "Brahim",
+		"lastName": "Rabhioui",
+		"email": "brahim.rabhioui@gmail.com",
+		"type": "user",
+		"code": "e5f66c6c-7229-48fb-bb23-0fd980af6c5d",
+		"phone": "0671570735"
+	},
+	{
+		"firstName": "Ayoub",
+		"lastName": "Seddik",
+		"email": "seddik.ayoub05@gmail.com",
+		"type": "user",
+		"code": "fc4511b7-2e48-41fe-95f7-e9fa730c662c",
+		"phone": "0767718777"
+	},
+	{
+		"firstName": "Ali",
+		"lastName": "Chafchaf",
+		"email": "ouznaliazzedine@gmail.com",
+		"type": "user",
+		"code": "dbca0231-751f-4f90-85db-90522a3ae737",
+		"phone": "0643687033"
+	},
+	{
+		"firstName": "Mokhtar",
+		"lastName": "El Bachir ",
+		"email": "elbachir4675@gmail.com",
+		"type": "user",
+		"code": "77d962d4-1e2a-4584-a4d4-ff149318d1b5",
+		"phone": "0769799596"
+	},
+	{
+		"firstName": "Nordine ",
+		"lastName": "Abou Mimoun ",
+		"email": "nordine599@outlook.fr",
+		"type": "user",
+		"code": "00601672-92ca-4fd1-9f97-e7120cd8e5a6",
+		"phone": "0673812026"
+	},
+	{
+		"firstName": "Rafik",
+		"lastName": "Safar bati",
+		"email": "rsafarbati@gmail.com",
+		"type": "user",
+		"code": "2a7ed9a5-6a2d-40bf-9a44-51fdfba640fe",
+		"phone": "0667651935"
+	},
+	{
+		"firstName": "Noureddine",
+		"lastName": "Bouchlaghem",
+		"email": "bouchlaghem.nordine01@gmail.com",
+		"type": "user",
+		"code": "7761292b-ad55-46b5-9ce4-92f597a2c31d",
+		"phone": "0749559329"
+	},
+	{
+		"firstName": "Khaled",
+		"lastName": "Boudebza",
+		"email": "boudebza.khaled@gmail.com",
+		"type": "user",
+		"code": "82b6c943-7a61-470f-afa6-51fd116a3271",
+		"phone": "0662492663"
+	},
+	{
+		"firstName": "Arnaud",
+		"lastName": "Arnaud",
+		"email": "arno.deville@gmail.com",
+		"type": "user",
+		"code": ""
+	},
+	{
+		"firstName": "Ali",
+		"lastName": "Stangret ",
+		"email": "aurelien.stangret@gmail.com",
+		"type": "user",
+		"code": "ee2a15e1-c1ef-45ec-90f7-b10e7e7824e8",
+		"phone": "0622605521"
+	},
+	{
+		"firstName": "Ahmed",
+		"lastName": "El arrassi",
+		"email": "ahmed597@hotmail.fr",
+		"type": "user",
+		"code": "6c672d94-de6a-42b8-9af8-2c2b38580621",
+		"phone": "0609766744"
+	},
+	{
+		"firstName": "Talal",
+		"lastName": "Flamez",
+		"email": "tflamez120174@gmail.com",
+		"type": "user",
+		"code": "dd89d3a8-d54c-4802-affb-cf73d72082a8",
+		"phone": "0768959513"
+	},
+	{
+		"firstName": "Mohamed ",
+		"lastName": "Rabhioui",
+		"email": "m.rabhioui@yahoo.fr",
+		"type": "user",
+		"code": "a33739bd-3336-46f7-a2f9-c880600c0eaf",
+		"phone": "0770010282"
+	},
+	{
+		"firstName": "Djamal",
+		"lastName": "Abidi",
+		"email": "jimirimi93@gmail.com",
+		"type": "user",
+		"code": "10348556-1077-4ca5-abb9-114592d41f04",
+		"phone": "0685622237"
+	},
+	{
+		"firstName": "salim",
+		"lastName": "tison",
+		"email": "salimtison@protonmail.com",
+		"type": "user",
+		"code": "874bb99d-d8f6-4c48-854e-c97f43b5c8f3"
+	},
+	{
+		"firstName": "Abdellah",
+		"lastName": "Sairou",
+		"email": "abdellah.sairou@gmail.com",
+		"type": "user",
+		"code": "adbb272d-f94a-4bd7-b26f-d0224073fd35",
+		"phone": "0629002900"
+	},
+	{
+		"firstName": "Yanis",
+		"lastName": "Rabhioui",
+		"email": "yanisrabhioui@icloud.com",
+		"type": "user",
+		"code": "99896199-2717-486c-902e-9bc3c4656de8",
+		"phone": "0636110669"
+	},
+	{
+		"firstName": "Farid",
+		"lastName": "El Boundati ",
+		"email": "elb.farid59@gmail.com",
+		"type": "user",
+		"code": "c0de204d-0a49-483a-b701-78d22a26ed29",
+		"phone": "0782995986"
+	}
+]

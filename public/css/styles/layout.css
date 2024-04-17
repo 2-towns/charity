@@ -1,0 +1,9 @@
+.layout__title {
+	border: darkgray 2px solid;
+	border-radius: 10px;
+	margin-bottom: 3rem;
+}
+
+a {
+	margin-bottom: var(--spacing);
+}

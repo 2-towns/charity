@@ -1,0 +1,57 @@
+{
+	"name": "charity",
+	"version": "0.0.2",
+	"description": "Charity project demo",
+	"type": "module",
+	"main": "index.js",
+	"scripts": {
+		"start": "node --watch dist/index.js",
+		"build": "rm -Rf dist && mkdir dist && cp -R public dist && cp package.json dist && tsc",
+		"populate": "node dist/scripts/populate.js",
+		"dump": "node dist/scripts/dump.js",
+		"tsc:watch": "rm -Rf dist && mkdir dist && cp -R public dist && tsc --watch",
+		"esbuild:watch": "node esbuild.js",
+		"test": "hurl --test *.hurl"
+	},
+	"repository": {
+	},
+	"keywords": [
+		"typescript",
+		"htmx"
+	],
+	"author": "Arnaud Deville, Salim Tison",
+	"license": "ISC",
+	"bugs": {
+	},
+	"dependencies": {
+		"cookie": "^0.5.0",
+		"http-errors": "^2.0.0",
+		"nodemailer": "^6.9.1",
+		"redis": "^4.6.5",
+		"validator": "^13.9.0"
+	},
+	"devDependencies": {
+		"@faker-js/faker": "^7.6.0",
+		"@tsconfig/node18-strictest-esm": "^1.0.1",
+		"@types/cookie": "^0.5.1",
+		"@types/http-errors": "^2.0.1",
+		"@types/node": "^18.15.11",
+		"@types/nodemailer": "^6.4.7",
+		"@types/redis": "^4.0.11",
+		"@types/validator": "^13.7.14",
+		"esbuild": "^0.17.15",
+		"typescript": "^5.0.2"
+	},
+	"packageManager": "^npm@8.19.2",
+	"engines": {
+		"node": ">=18.12.1"
+	},
+	"os": [
+		"linux",
+		"mac"
+	],
+	"cpu": [
+		"x64"
+	],
+	"readme": "README.md"
+}
